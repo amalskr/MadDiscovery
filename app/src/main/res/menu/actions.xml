@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:maddis="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/camera"
+        android:orderInCategory="1"
+        android:title="camera"
+        maddis:showAsAction="always" />
+    <item
+        android:id="@+id/location"
+        android:orderInCategory="2"
+        android:title="location"
+        maddis:showAsAction="always" />
+    <item
+        android:id="@+id/contacts"
+        android:orderInCategory="3"
+        android:title="contacts"
+        maddis:showAsAction="always" />
+
+</menu>

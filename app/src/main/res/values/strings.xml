@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mad Discovery</string>
+    <string name="activity_event">Add Event</string>
+    <string name="evtnam">Event Name</string>
+    <string name="evtorg">Organizer</string>
+    <string name="evtloc">Location</string>
+    <string name="save_event">Add</string>
+    <string name="title_activity_event_info">EventInfoActivity</string>
+    <string name="action_share">Share</string>
+    <string name="report_text">What\'s going on</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">Service Not Avaliable</string>
+    <string name="invalid_lat_long_used">Invalid Location</string>
+    <string name="no_address_found">Address Not Found</string>
+    <string name="address_found">Address Found</string>
+</resources>
